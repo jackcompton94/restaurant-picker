@@ -47,4 +47,4 @@ by then it was too late
 and you wound up on an island of shells and bones
 that bodies had left
 at the battle of the bottom of the ocean where the dead do rise
-if you need roof, I've got proof and at the surface you can watch them float by
+if you need proof, I've got proof and at the surface you can watch them float by
