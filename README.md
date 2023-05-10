@@ -1,5 +1,5 @@
 # Purpose
-Simple Command Line Tool that helps my girlfriend and I figure out what we're supposed to eat when cooking is the last thing we wanna do
+A Command Line Tool that helps my girlfriend and I figure out what we're supposed to eat when cooking is the last thing we wanna do
 
 ![My Image](https://github.com/jackcompton94/restaurant-picker/blob/68843d649efa7553db675e22706aea2a9479220b/Screenshot%202023-01-09%20at%208.27.39%20PM.png)
 
@@ -39,11 +39,3 @@ to `"/Users/(your_mac_name)/Documents/carryout.txt"` in both lines
 ### Windows:
 Update `"/Users/jackcompton/Documents/cDev/restaurant-picker/carryout.txt"` </br > 
 to `"carryout.txt"` in both lines
-changed code
-If you read this line
-that'll be your death
-by then it was too late 
-and you wound up on an island of shells and bones
-that bodies had left
-at the battle of the bottom of the ocean where the dead do rise
-if you need proof, I've got proof and at the surface you can watch them float by
